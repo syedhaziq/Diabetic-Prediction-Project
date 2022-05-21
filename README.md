@@ -1,4 +1,4 @@
-# Diabetic-Prediction-Project
+# Diabetic-Prediction-Project (Microsoft Course Project)
 
 <ul>
   <li> The purpose of this project was to predict whether a person has diabetes or not given some sort of parameters.</li>
